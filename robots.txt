@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bpfoskey.github.io/squared-away-srq/sitemap.xml
